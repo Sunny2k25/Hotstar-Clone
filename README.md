@@ -30,6 +30,9 @@ The Disney+ Hotstar UI Clone project aims to replicate the user interface of the
 <img width="1440" alt="Screenshot 2024-05-16 at 10 26 29 AM" src="https://github.com/Sunny2k25/Hotstar-Clone/assets/117598761/14bf741f-0fc8-46a5-a684-d56f57fabf7a">
 <img width="1440" alt="Screenshot 2024-05-16 at 10 26 35 AM" src="https://github.com/Sunny2k25/Hotstar-Clone/assets/117598761/181de40f-a759-42bf-8011-05005accc1af">
 <img width="1440" alt="Screenshot 2024-05-16 at 10 26 39 AM" src="https://github.com/Sunny2k25/Hotstar-Clone/assets/117598761/0c342a1a-8b76-454e-a7d1-183aaf239451">
+<img width="1440" alt="Screenshot 2024-05-16 at 10 26 44 AM" src="https://github.com/Sunny2k25/Hotstar-Clone/assets/117598761/938f8d0c-c0cd-4afc-9d13-34b4a3627aaa">
+<img width="1440" alt="Screenshot 2024-05-16 at 10 26 48 AM" src="https://github.com/Sunny2k25/Hotstar-Clone/assets/117598761/a06f2f27-6243-41f6-b79d-8cb51e1a0467">
+
 
 
 ## Technologies Used
